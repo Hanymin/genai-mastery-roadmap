@@ -1,10 +1,10 @@
 # 🧠 GenAI Mastery: Agentic AI System Design
 
-> **A free, ADHD-optimized 23-week curriculum** covering everything from Transformer fundamentals to building zero-human AI companies — using only open resources (YouTube, blogs, papers, docs).
+> **A free, ADHD-optimized 27-week curriculum** covering everything from Transformer fundamentals to building zero-human AI companies — using only open resources (YouTube, blogs, papers, docs).
 >
 > The free alternative to the $2,250 Maven course. Built for builders.
 
-[![Stars](https://img.shields.io/github/stars/your-username/genai-mastery-roadmap?style=social)](https://github.com/your-username/genai-mastery-roadmap)
+[![Stars](https://img.shields.io/github/stars/Hanymin/genai-mastery-roadmap?style=social)](https://github.com/your-username/genai-mastery-roadmap)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da)](https://discord.gg/genai-mastery)
@@ -21,7 +21,7 @@ Most GenAI courses are either too expensive ($500–$2,500), too shallow (just p
 - **ADHD-optimized** — every lesson is 10–30 minutes with a concrete action task and XP reward
 - **Project-based** — every week ends with a mini-project and a weekly challenge with a real deliverable
 - **2026-accurate** — covers Claude Opus 4.6, GPT-5, Gemini 2.5, OpenClaw, NemoClaw, Paperclip, Hermes Agent, and the full autonomous agent ecosystem
-- **23 weeks, 6 phases, 115 lessons, 30,000 XP** — from zero to fine-tuning custom models and running AI companies
+- **27 weeks, 7 phases, 135+ lessons, 35,000 XP** — from zero to fine-tuning custom models and running AI companies
 
 ---
 
@@ -74,6 +74,14 @@ PHASE 6: THE ARCHITECT'S FORGE (Weeks 21–23) 🔵 Indigo
   Week 22 ⚡  Hermes Agent                   [Self-Improving, Persistent Memory]
   Week 23 🔧  Fine-Tuning Mastery            [Unsloth, DPO, ORPO, Deployment]
   📌 Milestone: Fine-tune a model, deploy via Hermes, orchestrate with Paperclip
+
+PHASE 7: THE COST MASTER (Weeks 24-27)       🟡 Gold
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Week 24 📎  GStack: AI Software Factory     [/plan, /design-html, /qa, /ship]
+  Week 25 💰  Token Economics & Optimization  [LLMLingua, Groq, OpenRouter, Caching]
+  Week 26 🔀  Hybrid AI Architecture          [Ollama, PrivateGPT, Local+Cloud Routing]
+  Week 27 🚫  Uncensored Models               [Dolphin 3.0, WizardLM-2, Hermes 3]
+  📌 Milestone: Build a cost-optimized hybrid AI stack with 80% cost reduction
 ```
 
 ---
