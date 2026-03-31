@@ -1,8 +1,8 @@
 # 🧠 GenAI Mastery: Agentic AI System Design
 
-> **A free, ADHD-optimized 27-week curriculum** covering everything from Transformer fundamentals to building zero-human AI companies — using only open resources (YouTube, blogs, papers, docs).
+> **A free, ADHD-optimized 30-week curriculum** covering everything from Transformer fundamentals to production multi-agent systems — using only open resources (YouTube, blogs, papers, docs).
 >
-> The free alternative to the $2,250 Maven course. Built for builders.
+> The free alternative to the $2,250 Maven course. Built for builders. Now with Phase 8: Multi-Agent Patterns, MCP/A2A/AG-UI Protocols, and Production Agent Testing.
 
 [![Stars](https://img.shields.io/github/stars/Hanymin/genai-mastery-roadmap?style=social)](https://github.com/your-username/genai-mastery-roadmap)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -21,7 +21,7 @@ Most GenAI courses are either too expensive ($500–$2,500), too shallow (just p
 - **ADHD-optimized** — every lesson is 10–30 minutes with a concrete action task and XP reward
 - **Project-based** — every week ends with a mini-project and a weekly challenge with a real deliverable
 - **2026-accurate** — covers Claude Opus 4.6, GPT-5, Gemini 2.5, OpenClaw, NemoClaw, Paperclip, Hermes Agent, and the full autonomous agent ecosystem
-- **27 weeks, 7 phases, 135+ lessons, 35,000 XP** — from zero to fine-tuning custom models and running AI companies
+- **30 weeks, 8 phases, 150+ lessons, 35,000 XP** — from zero to fine-tuning custom models and running production AI systems
 
 ---
 
@@ -82,6 +82,13 @@ PHASE 7: THE COST MASTER (Weeks 24-27)       🟡 Gold
   Week 26 🔀  Hybrid AI Architecture          [Ollama, PrivateGPT, Local+Cloud Routing]
   Week 27 🚫  Uncensored Models               [Dolphin 3.0, WizardLM-2, Hermes 3]
   📌 Milestone: Build a cost-optimized hybrid AI stack with 80% cost reduction
+
+PHASE 8: THE PATTERNS MASTER (Weeks 28-30)  🩵 Teal
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Week 28 🧩  Multi-Agent Design Patterns     [Sequential, Parallel, Generator-Critic, HITL]
+  Week 29 🔌  Agent Protocols                 [MCP, A2A, AG-UI, A2UI, ANP, LMOS]
+  Week 30 🛡️  Production Agent Testing       [Trajectory Tests, CI/CD, Restate, Docker]
+  📌 Milestone: Production-grade agent with full test suite, CI/CD, and durable execution
 ```
 
 ---
